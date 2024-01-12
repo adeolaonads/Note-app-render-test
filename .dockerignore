@@ -1,0 +1,26 @@
+# flyctl launch added from frontend\part1\.gitignore
+# Logs
+frontend\part1\**\logs
+frontend\part1\**\*.log
+frontend\part1\**\npm-debug.log*
+frontend\part1\**\yarn-debug.log*
+frontend\part1\**\yarn-error.log*
+frontend\part1\**\pnpm-debug.log*
+frontend\part1\**\lerna-debug.log*
+
+frontend\part1\**\node_modules
+frontend\part1\**\dist
+frontend\part1\**\dist-ssr
+frontend\part1\**\*.local
+
+# Editor directories and files
+frontend\part1\**\.vscode\*
+!frontend\part1\**\.vscode\extensions.json
+frontend\part1\**\.idea
+frontend\part1\**\.DS_Store
+frontend\part1\**\*.suo
+frontend\part1\**\*.ntvs*
+frontend\part1\**\*.njsproj
+frontend\part1\**\*.sln
+frontend\part1\**\*.sw?
+fly.toml
